@@ -1,3 +1,5 @@
 layout:slide
 title: "WELCOME TO OUR SECOND SLIDE"
 LEARNING GIT IS FUN.
+get to know about repository,issue,pull request
+WE SHOULD NEVER STOP LEARNING BECAUSE LIFE NEVER STOPS TEACHING
