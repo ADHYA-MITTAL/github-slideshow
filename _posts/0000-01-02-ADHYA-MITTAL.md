@@ -1,0 +1,3 @@
+layout:slide
+title: "WELCOME TO OUR SECOND SLIDE"
+LEARNING GIT IS FUN.
